@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-cjzq2o.rtpsuperpopularwin.com/sitemap.xml
